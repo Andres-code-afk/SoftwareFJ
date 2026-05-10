@@ -1,0 +1,14 @@
+[2026-05-09 21:11:17] Reserva confirmada correctamente
+[2026-05-09 21:11:17] ERROR cliente inválido: El nombre no puede estar vacío
+[2026-05-09 21:11:17] Alquiler de equipo realizado
+[2026-05-09 21:11:17] ERROR asesoría: Las sesiones deben ser mayores a cero
+[2026-05-09 21:20:11] Reserva confirmada correctamente
+[2026-05-09 21:20:11] ERROR cliente inválido: El nombre no puede estar vacío
+[2026-05-09 21:20:11] Alquiler de equipo realizado
+[2026-05-09 21:20:11] ERROR asesoría: Las sesiones deben ser mayores a cero
+[2026-05-09 21:20:11] Reserva pendiente creada
+[2026-05-09 21:20:11] ERROR servicio inválido: El servicio debe tener nombre
+[2026-05-09 21:20:11] Reserva cancelada correctamente
+[2026-05-09 21:20:11] ERROR correo inválido: Correo inválido
+[2026-05-09 21:20:11] ERROR precio inválido: El precio debe ser mayor a cero
+[2026-05-09 21:20:11] Reserva final completada
