@@ -12,3 +12,6 @@
 [2026-05-09 21:20:11] ERROR correo inválido: Correo inválido
 [2026-05-09 21:20:11] ERROR precio inválido: El precio debe ser mayor a cero
 [2026-05-09 21:20:11] Reserva final completada
+[2026-05-09 21:30:52] Cliente registrado
+[2026-05-09 21:31:51] ERROR reserva: Correo inválido
+[2026-05-09 21:32:46] Sistema finalizado
